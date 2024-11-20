@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6a7010760571039428780dca49634fe7, type: 3}
+  m_Name: Fast Weapon
+  m_EditorClassIdentifier: 
+  damage: 5
+  reloadingTime: 0.8
+  defaultMaxAmmo: 45
+  magazineAmmoCount: 15
+  bulletPrefab: {fileID: 687455302977530714, guid: 2baa955a2783b524aa0dea63de16ff04, type: 3}
+  sounds: {fileID: 11400000, guid: 6575cd3e1b6cf9143b91a422cf4c59fd, type: 2}

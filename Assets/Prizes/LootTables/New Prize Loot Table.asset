@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d9b77a2d1fd85a043a6d9431a3b8cc2b, type: 3}
+  m_Name: New Prize Loot Table
+  m_EditorClassIdentifier: 
+  prizes:
+  - {fileID: 11400000, guid: 2c120ad9fe785504ba95bfa9b74fb010, type: 2}
+  - {fileID: 11400000, guid: 6586c78ab3eef14479e1dcd76212a7ba, type: 2}
+  - {fileID: 11400000, guid: 7c598c48ce3aa9749add59b0187eb13e, type: 2}
+  - {fileID: 11400000, guid: 508b217f1cef1264a95eccd0a3e6c159, type: 2}
+  - {fileID: 11400000, guid: f1fee727215c86446a074c2eeb271a3a, type: 2}
+  - {fileID: 11400000, guid: ad4a6474bf5703b44957b6828f591b82, type: 2}
+  - {fileID: 11400000, guid: 56d6e9b6efe189d46b3bc045a2d4ae49, type: 2}
+  - {fileID: 11400000, guid: 32b4be2fa15c81b4c8549e52f1a77a3e, type: 2}
+  - {fileID: 11400000, guid: 3e8bcd4c35672ad46b0cacaef5cac1df, type: 2}
+  - {fileID: 11400000, guid: dfddc58d621141e489c59a5d4d905724, type: 2}
+  - {fileID: 11400000, guid: b8ec44271b6c9084ca9ac29106f9e0d9, type: 2}
